@@ -1,4 +1,7 @@
-D 'xtkr': The Keane & Runkle Estimator for Dynamic Panel Estimation Use xtkr With STATA 19
+D 'drglm': Doubly robust estimation in generalized linear models Use drglm With STATA 19
 D
-F xtkr.ado
-F xtkr.sthlp
+F drglm.ado
+F drglm.sthlp
+F drglm_momev_dr.ado
+F drglm_momev_ebe.ado
+F drglm_momev_logit_logit_dr.ado
