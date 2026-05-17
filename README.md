@@ -1,6 +1,8 @@
 # drglm
 Doubly robust estimation in generalized linear models Use drglm With STATA 19
 
+https://www.youtube.com/watch?v=Q1FRsjNvrks
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
